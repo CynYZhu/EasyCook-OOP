@@ -1,6 +1,6 @@
 # EasyCook
 
-## Instruction:
+## Instruction
 
 The goal of this program is to navigate a player through lists of food options and let the
 player to choose what food to cook. This program will prompt a recipe file of foods selected by
@@ -17,7 +17,7 @@ to exit the program with a pile of recipes. “Help” directs the player to a d
 for reference. In order to make a choice, the player should type in the number that displayed
 ahead of each option; otherwise, the program will ask again for a valid number.
 
-## Future improvement:
+## Future improvement
 This program would be more efficient if food options and their cooking instructions are
 stored in a more structured database. It would trigger less errors and guide the player to the
 correct recipe more efficiently if options are growing. It would help if a “remove” function is
