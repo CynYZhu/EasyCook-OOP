@@ -2,7 +2,7 @@
 
 ## Instruction
 
-The goal of this program is to navigate a player through lists of food options and let the
+EasyCook is a object-oriented programming exercice project and aim to navigate a player through lists of food options and let the
 player to choose what food to cook. This program will prompt a recipe file of foods selected by
 the player in the end.
 
